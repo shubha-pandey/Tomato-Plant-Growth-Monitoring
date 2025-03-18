@@ -2,3 +2,7 @@ numpy
 pandas
 matplotlib
 ultralytics
+scikit--learn
+opencv-python
+tensorflow
+seaborn
