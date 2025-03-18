@@ -64,6 +64,7 @@ Find the final processed dataset here on [Kaggle](#https://www.kaggle.com/datase
 📁 tomato_model2_results     # Fine-tuned model results: training/validation graphs, cross-validation, and model
 📄 README.md                 # Readme file
 📄 real-time-pred.py         # Real-time prediction using camera
+📄 requirements.txt          # Requirements 
 📄 sort.py                   # File sorter/tracker to count fruits in code
 📄 tomato_3classes_2000images_21_4_2023.pt  # YOLO weight for tomato detection and prediction
 📄 tomato_model1.ipynb       # Initial model building and training notebook
