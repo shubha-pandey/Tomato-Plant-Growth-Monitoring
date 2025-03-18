@@ -13,7 +13,7 @@ This system leverages YOLO (You Only Look Once) and MobileNetV2 to monitor tomat
 
   
 ## 📁 Dataset  
-The dataset contains images of tomato fruits at different stages (ripe, unripe, semi-ripe) and tomato flowers. It has been collected from Kaggle, [GitHub](#https://github.com/laboroai/LaboroTomato?tab=readme-ov-file#dataset-details), and [other sources](#https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/EP4NGO).  
+The dataset contains images of tomato fruits at different stages (ripe, unripe, semi-ripe) and tomato flowers. It has been collected from Kaggle, [GitHub](https://github.com/laboroai/LaboroTomato?tab=readme-ov-file#dataset-details), and [other sources](https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/EP4NGO).  
 
 ### 📂 Dataset Structure  
 
@@ -32,7 +32,7 @@ data/
   - **Semi-Ripe:** Greenish, needs time to ripen (**30-89% red**).  
   - **Raw:** Mostly green or white, sometimes with **rare red parts** (**0-30% red**). 
 
-Find the final processed dataset here on [Kaggle](#https://www.kaggle.com/datasets/shubhapandey/tomato-plant-dataset).
+Find the final processed dataset here on [Kaggle](https://www.kaggle.com/datasets/shubhapandey/tomato-plant-dataset).
 
 
 ## 📊 Methodology
@@ -95,7 +95,7 @@ Find the final processed dataset here on [Kaggle](#https://www.kaggle.com/datase
 
 ## 🔗 References
 
-- [sort file](#https://github.com/abewley/sort/blob/master/sort.py)
+- [sort file](https://github.com/abewley/sort/blob/master/sort.py)
 
 ---
 
